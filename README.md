@@ -1,14 +1,15 @@
 # Comment-App
 Hello!
-To run the project
+To run the project   
 
 Set up-->
 
 1. Installed Eclipse latest version.
 2. Configure the Eclipse with Tomcat version 8.5
 
--------------------------------------------------------------
-
+-------------------------------------------------------------------------
+You can get the run_instruction.txt file inside zip file under resources
+-------------------------------------------------------------------------
 To Run project
 
 1.Extract the given Zip file into a desired folder
